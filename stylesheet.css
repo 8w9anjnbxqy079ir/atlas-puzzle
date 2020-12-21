@@ -1,5 +1,4 @@
-.center {
-position: absolute;
-top: 50%;
-bottom: 50%;
+* {
+  display: flex;
+  align-items: center
 }
